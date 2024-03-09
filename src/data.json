@@ -1,0 +1,10 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "batman",
+      "years": "2000",
+      "image": "public/batman.jpg"
+    }
+  ]
+}
